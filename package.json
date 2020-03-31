@@ -48,7 +48,7 @@
     "schemaDir": "schema"
   },
   "dependencies": {
-    "@jupyterlab/application": "^1.1.0",
+    "@jupyterlab/application": "^1.2.2",
     "@jupyterlab/apputils": "^1.1.0",
     "@jupyterlab/codemirror": "^1.1.0",
     "@jupyterlab/console": "^1.1.0",
