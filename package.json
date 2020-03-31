@@ -56,7 +56,7 @@
     "@jupyterlab/filebrowser": "^1.1.0",
     "@jupyterlab/mainmenu": "^1.1.0",
     "@jupyterlab/services": "^4.1.0",
-    "@jupyterlab/terminal": "^1.1.0",
+    "@jupyterlab/terminal": "^1.2.2",
     "@jupyterlab/ui-components": "^1.1.0",
     "@phosphor/widgets": "^1.8.0",
     "diff-match-patch": "^1.0.4",
